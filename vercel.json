@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    { "source": "/uploads/(.*)", "destination": "/uploads/$1" },
+    { "source": "/comments", "destination": "/comments.php" },
+    { "source": "/friends", "destination": "/friends.php" },
+    { "source": "/messages", "destination": "/messages.php" },
+    { "source": "/notifications", "destination": "/notifications.php" },
+    { "source": "/profile", "destination": "/profile.php" },
+    { "source": "/reset", "destination": "/reset.php" },
+    { "source": "/signup", "destination": "/signup.php" },
+    { "source": "/logout", "destination": "/logout.php" },
+    { "source": "/", "destination": "/index.php" }
+  ]
+}
