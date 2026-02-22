@@ -1,0 +1,158 @@
+[
+    {
+        "name": "destiny",
+        "comment": "1010010110",
+        "age": 17,
+        "date": "2026-01-29 23:07",
+        "image": "img_697bda25e8a49.JPG",
+        "likes": 1,
+        "liked_by": [
+            "NingaBugie22"
+        ],
+        "id": "cmt_697fbc353056b"
+    },
+    {
+        "name": "pearl",
+        "comment": "deadly",
+        "age": 20,
+        "date": "2026-01-29 23:29",
+        "created_by": "pearl",
+        "likes": 2,
+        "liked_by": [
+            "destiny",
+            "pearl"
+        ],
+        "id": "cmt_697fbc353056e"
+    },
+    {
+        "name": "NingaBugie22",
+        "comment": "@destiny \r\nyou are a star",
+        "age": 18,
+        "date": "2026-01-29 23:50",
+        "created_by": "NingaBugie22",
+        "likes": 2,
+        "liked_by": [
+            "mma",
+            "NingaBugie22"
+        ],
+        "id": "cmt_697fbc353056f"
+    },
+    {
+        "name": "mma",
+        "comment": "@pearl\r\nthis is a double ganager",
+        "age": 18,
+        "date": "2026-01-30 07:28",
+        "created_by": "mma",
+        "image": "img_697c4f7027a0d.jpg",
+        "likes": 4,
+        "liked_by": [
+            "mma",
+            "NingaBugie22",
+            "Niggathis",
+            "huncho"
+        ],
+        "id": "cmt_697fbc3530570",
+        "replies": [
+            {
+                "name": "huncho",
+                "comment": "love the image akatsuki @NingaBugie22",
+                "date": "2026-02-01 22:13",
+                "created_by": "huncho",
+                "id": "rpl_697fc8efdc53e"
+            }
+        ]
+    },
+    {
+        "name": "Niggathis",
+        "comment": "this is a racist motherfxxker",
+        "age": 100,
+        "date": "2026-01-30 10:14",
+        "created_by": "Niggathis",
+        "likes": 2,
+        "liked_by": [
+            "Niggathis",
+            "NingaBugie22"
+        ],
+        "id": "cmt_697fbc3530571",
+        "replies": [
+            {
+                "name": "destiny",
+                "comment": "broski",
+                "date": "2026-02-01 21:50",
+                "created_by": "destiny",
+                "id": "rpl_697fc8efdc544"
+            }
+        ]
+    },
+    {
+        "name": "NingaBugie22",
+        "comment": "@destiny \r\nwasssup nepa is wicked",
+        "age": 18,
+        "date": "2026-02-01 21:28",
+        "created_by": "NingaBugie22",
+        "likes": 2,
+        "liked_by": [
+            "NingaBugie22",
+            "destiny"
+        ],
+        "id": "cmt_697fbc3530572",
+        "replies": [
+            {
+                "name": "destiny",
+                "comment": "hey",
+                "date": "2026-02-01 21:49",
+                "created_by": "destiny",
+                "id": "rpl_697fc8efdc546"
+            }
+        ]
+    },
+    {
+        "id": "cmt_697fc1fe6271f",
+        "name": "huncho",
+        "comment": "whats happening here guys",
+        "date": "2026-02-01 22:13",
+        "created_by": "huncho",
+        "image": "img_697fc1fe62059.jpg",
+        "likes": 1,
+        "liked_by": [
+            "NingaBugie22"
+        ],
+        "replies": [
+            {
+                "name": "huncho",
+                "comment": "bring ur best",
+                "date": "2026-02-01 22:13",
+                "created_by": "huncho",
+                "id": "rpl_697fc8efdc547"
+            },
+            {
+                "id": "rpl_697fc90636489",
+                "name": "NingaBugie22",
+                "comment": "@huncho vkvncnvkxv,,mcv",
+                "date": "2026-02-01 22:43",
+                "created_by": "NingaBugie22"
+            }
+        ]
+    },
+    {
+        "id": "cmt_6982469c61908",
+        "name": "jiji",
+        "comment": "heheheheheheh",
+        "date": "2026-02-03 20:03",
+        "created_by": "jiji",
+        "image": "img_6982469c6058b.JPG",
+        "likes": 0,
+        "liked_by": []
+    },
+    {
+        "id": "cmt_698dabc1b76fd",
+        "name": "destiny",
+        "comment": "i just wanna tell yall a new dummy is coming soon get rready football fans this is gonna be big !!!!! ",
+        "date": "2026-02-12 11:30",
+        "created_by": "destiny",
+        "likes": 1,
+        "liked_by": [
+            "destiny"
+        ]
+    }
+]

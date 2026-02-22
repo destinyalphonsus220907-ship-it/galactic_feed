@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "username": "destiny",
+        "email": "danicalphonsus@gmail.com",
+        "password": "$2y$10$geurPv1VXJXYHdJm5SOT5uIy6iKlkCvF5Jrc99OunBnBu3azk.mum",
+        "age": 29,
+        "created_at": "2026-01-29 11:05:35"
+    },
+    {
+        "id": 2,
+        "username": "pearl",
+        "email": "destinyalphonsus220907@gmail.com",
+        "password": "$2y$10$qDp59pY5WylXhvmhDHKNY.1YyNNb37Z3qrEw.i4SMpTOhFxT5lYNq",
+        "age": 20,
+        "created_at": "2026-01-29 12:13:55"
+    },
+    {
+        "id": 3,
+        "username": "NingaBugie22",
+        "email": "nvdvdbjnvksn@gmail.com",
+        "password": "$2y$10$9E2wvswzs5agNZpNReOivegZN\/HwEr6Iz50\/Cw7fnJZZtVQUO87Xa",
+        "age": 18,
+        "created_at": "2026-01-29 13:05:59",
+        "avatar": "avatar_697fb7321bd03.jpg"
+    },
+    {
+        "username": "mma",
+        "email": "mma@gmail.com",
+        "password": "$2y$10$E47JrXMKvVg8FOdPm0TkxeVz.EBdxNp.lG7LX6iOyAkt.499bQeWG",
+        "age": 18,
+        "created_at": "2026-01-30 07:24:53"
+    },
+    {
+        "username": "Niggathis",
+        "email": "antaijesse909@gmail.com",
+        "password": "$2y$10$Ab7lcIdlIYxTAOPkmGVyn.v08oPPSWwXrBsZGQ92HkU.krkUgSEQK",
+        "age": 100,
+        "created_at": "2026-01-30 10:11:25"
+    },
+    {
+        "username": "huncho",
+        "email": "huncho@gmail.com",
+        "password": "$2y$10$X4ROA9ncrzVkte8iGts1..qo2kYqKLSBgz\/fVUQj1TkNoB\/cbIC\/S",
+        "age": 23,
+        "created_at": "2026-02-01 22:12:12",
+        "avatar": "avatar_697fc260d6827.jpg"
+    },
+    {
+        "username": "jiji",
+        "email": "jiji@email.com",
+        "password": "$2y$10$pOYrAJvhQk8QsY\/ZOrOQ4Orpad8d.9YhZkeh.x7I6wheLOruoSkdC",
+        "age": 17,
+        "created_at": "2026-02-03 20:03:11",
+        "avatar": "avatar_69824cd39c514.JPG"
+    }
+]
